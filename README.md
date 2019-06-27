@@ -2,4 +2,4 @@
 Мой первый опубликованный сайт
 
 
-[Урок 12](https://alfacvan.github.io/Lesson_12/ "Урок 12")
+[Урок 12](https://alfacvan.github.io/Lesson_12/ "Урок 12") - работа с репозиторием на github
